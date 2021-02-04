@@ -1,2 +1,3 @@
 ## Security Camera Using Python
-https://cdn.dribbble.com/users/279080/screenshots/3272461/milestone.gif
+![milestone](https://user-images.githubusercontent.com/62868878/106929037-e3f1bf00-6739-11eb-90fc-323bc18cc01c.gif)
+
